@@ -1,1 +1,1 @@
-# To-Do-List
+A simple and elegant To-Do List app built with Flutter and Firebase. This app allows users to create, edit, and delete tasks in real-time, leveraging the power of Firebase for cloud storage and data synchronization. It provides a smooth experience for managing daily tasks.
